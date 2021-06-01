@@ -3,9 +3,9 @@ Customers plays a big part in banking industries where they contributes to the g
 For this study i would be taking Churn_Modelling.csv from kaggle. 
 ref: https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers
 
-For this study i will break down into 3 parts namely:
-Part A : Read and clean data
-Part B : Explore and Analysis data
+For this study i will break down into 3 parts namely:\
+Part A : Read and clean data\
+Part B : Explore and Analysis data\
 Part C : Machine Learning 
 
 We would first read and clean the data, check for any missing value and undestanding the dataset. Secondly we would explore and try to analysis the data with some questions as guidelines. Lastly we would try to use 4 models namely,: 'KNN, Logistic Regression, Guassian Naive Bayes and Random forest to test on their performance on this dataset, after which we would select the best performance model through measurements of confusion metrix, F1 score and ROC curve and lastly we will do fine tuning to the best model.
